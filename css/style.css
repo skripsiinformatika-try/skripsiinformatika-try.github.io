@@ -22902,12 +22902,24 @@ span#counter {
     opacity: .85 !important;
     color: white !important;
 }
+.btn.outline {
+    background-color: unset;
+    border-color: var(--gray);
+    color: var(--gray) !important;
+}
 .btn:active,
 .btn:focus,
 .btn:hover
 {
     opacity: 1 !important;
     background-color: var(--gray) !important;
+    border-color: var(--gray) !important;
+}
+.btn.outline:active,
+.btn.outline:focus,
+.btn.outline:hover
+{
+    background-color: unset !important;
     border-color: var(--gray) !important;
 }
 input {
