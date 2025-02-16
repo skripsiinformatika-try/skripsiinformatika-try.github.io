@@ -22939,3 +22939,13 @@ input {
     background-repeat: no-repeat;
     background-size: auto 100%;
 }
+.evaluate3 select,
+.option5 select
+{
+  color: grey;
+}
+.evaluate3 select option:not(:first-of-type),
+.option5 select option:not(:first-of-type)
+{
+  color: black;
+}
