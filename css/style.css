@@ -22885,9 +22885,25 @@ span#counter {
     [data-theme-version="dark"] .footer .copyright p {
       color: #fff; }
 
+@font-face {
+  font-family: 'Shadows';
+  font-display: 'swap';
+  src: url('../font/ShadowsIntoLight-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-display: 'swap';
+  src: url('../font/Roboto-Regular.ttf');
+}
+
 :root {
     --primary: #ca9a36;
     --gray: #bcbcbc;
+}
+h4 {
+  font-family: 'Shadows';
+  font-size: 1.5rem;
 }
 .card {
     border-radius: 2rem;
@@ -22901,6 +22917,7 @@ span#counter {
     border-color: var(--gray);
     opacity: .85 !important;
     color: white !important;
+    font-family: 'Roboto';
 }
 .btn.outline {
     background-color: unset;
@@ -22933,11 +22950,16 @@ input {
     bottom: 1.5rem;
     left: 0;
     right: 0;
+    font-family: 'Shadows';
 }
-.fix-wrapper {
-    background-image: linear-gradient(to bottom right, rgba(255, 255, 255, .0), rgba(255, 255, 255, 1)), url('../image/wall.png'), url('../image/wall.jpg');
-    background-repeat: no-repeat;
-    background-size: auto 100%;
+video {
+  position: fixed;
+  margin: auto;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: auto;
+  height: 100%;
 }
 .evaluate3 select,
 .option5 select
@@ -22948,4 +22970,11 @@ input {
 .option5 select option:not(:first-of-type)
 {
   color: black;
+}
+
+@media (min-width: 1280px) {
+  video {
+    width: 100%;
+    height: auto;
+  }
 }

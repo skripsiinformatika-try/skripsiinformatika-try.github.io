@@ -13,11 +13,12 @@
     <script src="js/app.js"></script>
 </head>
 <body>
+    <video src="./video/star.mp4" loop autoplay muted></video>
     <div class="fix-wrapper">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-10 col-lg-4">
-                    <div class="card mb-0 h-auto z-2">
+                    <div class="card mb-0 h-auto z-3">
                         <div class="card-body px-4 pt-4 pb-4">
                             <div class="text-center mb-2">
                                 <a></a>
@@ -29,7 +30,7 @@
                                 <div class="select">
                                     <div class="form-group mb-5">
                                         <label class="form-label">Topik</label>
-                                        <select class="form-control h-80">
+                                        <select class="form-control h-80" onfocus="muted()">
                                             <option value=0></option>
                                             <option value=1>Decision</option>
                                             <option value=2>Forecasting</option>
@@ -556,7 +557,7 @@
                             </form>
                         </div>
                     </div>
-                    <div class="new-account z-1">
+                    <div class="new-account z-2">
                         <p class="text-center lh-md">!- Best graduate `n talent ready work<br />&copy; Trust since 2007 - <script type="text/javascript">document.write(new Date().getFullYear())</script></p>
                     </div>
                 </div>
