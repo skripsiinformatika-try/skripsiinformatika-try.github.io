@@ -22944,13 +22944,20 @@ input {
     padding-bottom: .75rem !important;
     height: fit-content !important;
 }
-.new-account {
+.new-account,
+.media-social
+{
     position: fixed;
     margin: 0;
     bottom: 1.5rem;
     left: 0;
     right: 0;
     font-family: 'Shadows';
+}
+.media-social
+{
+    bottom: 15%;
+    font-size: 2rem;
 }
 video {
   position: fixed;
@@ -22972,8 +22979,19 @@ video {
   color: black;
 }
 
-@media (min-width: 1280px) {
+@media (min-width: 1280px) and (min-height: 1000px) {
   video {
+    top: 0;
+    bottom: 0;
+    width: auto;
+    height: 100%;
+  }
+}
+
+@media (min-width: 1280px) and (max-height: 768px) {
+  video {
+    top: 0;
+    bottom: 0;
     width: 100%;
     height: auto;
   }

@@ -1,1 +1,297 @@
-const _0x56902c=_0x13de;function _0xfd5e(){const _0x4a01a0=['destroy','querySelector','.chart\x20select','#ca9a36','3qBprOc','Hasil','.chart','indexOf','.option5\x20select','push','ready','1017398AekEpd','9JTeqkh','replace','.evaluate5','button:not(.outline)','\x20select','10wgPcSD','.chart\x20select\x20option:not(:first-of-type)','remove','13632HvQeiC','\x20input','Evaluasi','.evaluate3\x20select:eq(','.option2','.option4','FP\x20Growth','Decision','addClass','1917656lUeJUL','input.decimal','Forecasting','Lanjutkan','235911GuhRLE','Imaging','.select','Crypto','muted','form\x20select','.option1','1180kFPkjJ','text-dark','316292ARRMPS','png','focus','K\x20Means','body','.btn.outline','html','log','line','chart','input','length','change','TOPSIS','SAW','#ffffff','Biner','slice','bmp','DES','.evaluate','click','KNN','files','.evaluate3\x20select','.evaluate4','Canny','11430727WURdQo','.evaluate2','form','d-none','Association','input[type=\x22tel\x22]:not(.decimal)','type','getElementById','split','value','.evaluate1','querySelectorAll','jpeg','.option3','.option5','target','AHP','removeClass','1873403RseITN'];_0xfd5e=function(){return _0x4a01a0;};return _0xfd5e();}(function(_0x182d39,_0x51b075){const _0x52a860=_0x13de,_0x2ad54d=_0x182d39();while(!![]){try{const _0x42ff90=-parseInt(_0x52a860(0x1ec))/0x1+-parseInt(_0x52a860(0x1d6))/0x2*(parseInt(_0x52a860(0x227))/0x3)+parseInt(_0x52a860(0x1f5))/0x4+parseInt(_0x52a860(0x1f3))/0x5*(-parseInt(_0x52a860(0x1df))/0x6)+parseInt(_0x52a860(0x222))/0x7+-parseInt(_0x52a860(0x1e8))/0x8*(-parseInt(_0x52a860(0x1d7))/0x9)+-parseInt(_0x52a860(0x1dc))/0xa*(-parseInt(_0x52a860(0x210))/0xb);if(_0x42ff90===_0x51b075)break;else _0x2ad54d['push'](_0x2ad54d['shift']());}catch(_0x1a989f){_0x2ad54d['push'](_0x2ad54d['shift']());}}}(_0xfd5e,0x542bc));let topic=['',_0x56902c(0x1e6),_0x56902c(0x1ea),_0x56902c(0x214),_0x56902c(0x1ed),'Classification'],page=0x0,select=0x0,option,evaluate,t1s=0x0,t1o=['',_0x56902c(0x220),_0x56902c(0x203),_0x56902c(0x202),'WP'],t2o=['','SMA','DMA','SES',_0x56902c(0x208)],t3o=['','Apriori',_0x56902c(0x1e5)],t4o=['',_0x56902c(0x20f),'Sobel',_0x56902c(0x1ef),_0x56902c(0x205)],t5o=['',_0x56902c(0x20b),'Naïve\x20Bayes','ANN',_0x56902c(0x1f8)],tp=[],tvchart=[],tchart=[],chart=new Chart(document[_0x56902c(0x217)]('chart'),{});const chartlbl=['A1','A2','A3'];function muted(){const _0x34e32d=_0x56902c,_0x388ec2=document[_0x34e32d(0x1f9)][_0x34e32d(0x224)]('video');_0x388ec2[_0x34e32d(0x1f0)]=![];}function _0x13de(_0x2164df,_0x48dbe8){const _0xfd5e5f=_0xfd5e();return _0x13de=function(_0x13deef,_0x126185){_0x13deef=_0x13deef-0x1d2;let _0x51aae2=_0xfd5e5f[_0x13deef];return _0x51aae2;},_0x13de(_0x2164df,_0x48dbe8);}$(document)[_0x56902c(0x1d5)](function(){const _0x2b5d89=_0x56902c;$(_0x2b5d89(0x1f2))[_0x2b5d89(0x1e7)](_0x2b5d89(0x213)),$(_0x2b5d89(0x1e3))[_0x2b5d89(0x1e7)]('d-none'),$('.option3')[_0x2b5d89(0x1e7)]('d-none'),$('.option4')['addClass'](_0x2b5d89(0x213)),$(_0x2b5d89(0x21e))[_0x2b5d89(0x1e7)](_0x2b5d89(0x213)),$('.evaluate1')['addClass']('d-none'),$(_0x2b5d89(0x211))[_0x2b5d89(0x1e7)](_0x2b5d89(0x213)),$('.evaluate3')[_0x2b5d89(0x1e7)](_0x2b5d89(0x213)),$(_0x2b5d89(0x20e))[_0x2b5d89(0x1e7)]('d-none'),$('.evaluate5')[_0x2b5d89(0x1e7)](_0x2b5d89(0x213)),$('.chart')[_0x2b5d89(0x1e7)](_0x2b5d89(0x213)),$(_0x2b5d89(0x1fa))[_0x2b5d89(0x1e7)](_0x2b5d89(0x213));}),$(document)['on'](_0x56902c(0x20a),_0x56902c(0x1fa),function(){const _0x5d6025=_0x56902c;$('h5')[_0x5d6025(0x1fb)]('pilih\x20sesuai\x20algoritma\x20kamu'),$('.select')[_0x5d6025(0x221)](_0x5d6025(0x213)),$('.option1')[_0x5d6025(0x1e7)](_0x5d6025(0x213)),$('.option2')[_0x5d6025(0x1e7)]('d-none'),$(_0x5d6025(0x21d))[_0x5d6025(0x1e7)]('d-none'),$(_0x5d6025(0x1e4))[_0x5d6025(0x1e7)](_0x5d6025(0x213)),$(_0x5d6025(0x21e))[_0x5d6025(0x1e7)](_0x5d6025(0x213)),$(_0x5d6025(0x21a))[_0x5d6025(0x1e7)]('d-none'),$(_0x5d6025(0x211))['addClass'](_0x5d6025(0x213)),$('.evaluate3')[_0x5d6025(0x1e7)](_0x5d6025(0x213)),$('.evaluate4')[_0x5d6025(0x1e7)](_0x5d6025(0x213)),$(_0x5d6025(0x1d9))['addClass'](_0x5d6025(0x213)),$(_0x5d6025(0x229))[_0x5d6025(0x1e7)](_0x5d6025(0x213)),$(_0x5d6025(0x1da))[_0x5d6025(0x1fb)](_0x5d6025(0x1eb)),$(_0x5d6025(0x1da))[_0x5d6025(0x221)]('d-none'),$(_0x5d6025(0x1fa))[_0x5d6025(0x1e7)](_0x5d6025(0x213)),page=0x0,select=0x0,option='',(tp=[],tvchart=[],t1s=0x0);}),$(document)['on'](_0x56902c(0x1ff),_0x56902c(0x215),function(_0x2d51a8){const _0x1f6486=_0x56902c;_0x2d51a8[_0x1f6486(0x21f)]['value']=_0x2d51a8[_0x1f6486(0x21f)]['value'][_0x1f6486(0x1d8)](/[^0-9]/g,'');}),$(document)['on'](_0x56902c(0x1ff),_0x56902c(0x1e9),function(_0x333304){const _0x51577c=_0x56902c;let _0x5798d9=_0x333304[_0x51577c(0x21f)][_0x51577c(0x219)][_0x51577c(0x1d8)](/[^0-9.]/g,'');_0x5798d9['search'](/[.]/g)>=0x0&&_0x5798d9['match'](/[.]/g)['length']>0x1?_0x333304['target']['value']=_0x5798d9[_0x51577c(0x206)](0x0,-0x1):_0x333304[_0x51577c(0x21f)][_0x51577c(0x219)]=_0x5798d9;}),$(document)['on'](_0x56902c(0x201),'input[type=\x22file\x22]',function(_0x417ad1){const _0x57522f=_0x56902c;let _0x5010fd=[_0x57522f(0x207),'jpg',_0x57522f(0x21c),_0x57522f(0x1f6)];_0x5010fd[_0x57522f(0x1d2)](_0x417ad1[_0x57522f(0x21f)][_0x57522f(0x20c)][0x0][_0x57522f(0x216)][_0x57522f(0x218)]('/')[0x1])<0x0&&(_0x417ad1[_0x57522f(0x21f)]['value']='');}),$(document)['on']('submit',_0x56902c(0x212),function(_0xbc009){const _0x111516=_0x56902c;_0xbc009['preventDefault']();if(page<0x1){const _0x43dc91=document['body'][_0x111516(0x224)](_0x111516(0x1f1));_0x43dc91['value']<0x1?_0x43dc91[_0x111516(0x1f7)]():($(_0x111516(0x1ee))[_0x111516(0x1e7)]('d-none'),$('.btn.outline')[_0x111516(0x221)](_0x111516(0x213)),select=_0x43dc91['value'],option='.option'+select,$(option)[_0x111516(0x221)](_0x111516(0x213)),page++,$('h5')[_0x111516(0x1fb)](topic[select]),$(_0x111516(0x1da))[_0x111516(0x1fb)](_0x111516(0x1e1)));}else{if(page==0x1){t1s=0x0;let _0x2eaa49;select!=0x5?_0x2eaa49=document['body']['querySelectorAll'](option+'\x20input'):_0x2eaa49=document['body'][_0x111516(0x21b)](option+_0x111516(0x1db));for(let _0x20d33e=0x0;_0x20d33e<_0x2eaa49['length'];_0x20d33e++){if(_0x2eaa49[_0x20d33e][_0x111516(0x219)]['length']<0x1)return _0x2eaa49[_0x20d33e][_0x111516(0x1f7)](),![];else select!=0x4?tp[_0x111516(0x1d4)](parseInt(_0x2eaa49[_0x20d33e]['value'])):tp[_0x111516(0x1d4)](_0x2eaa49[_0x20d33e][_0x111516(0x20c)][0x0]),select==0x1&&(t1s=t1s+parseInt(_0x2eaa49[_0x20d33e]['value']));}if(select==0x1&&t1s!=0x64)return _0x2eaa49[0x0][_0x111516(0x1f7)](),![];$(option)[_0x111516(0x1e7)](_0x111516(0x213)),$(_0x111516(0x209)+select)[_0x111516(0x221)]('d-none'),$('button:not(.outline)')[_0x111516(0x1fb)](_0x111516(0x228)),page++;}else{if(page==0x2){let _0xdb838f;select!=0x3?_0xdb838f=document[_0x111516(0x1f9)][_0x111516(0x21b)](_0x111516(0x209)+select+_0x111516(0x1e0)):_0xdb838f=document[_0x111516(0x1f9)]['querySelectorAll'](_0x111516(0x209)+select+'\x20select');for(let _0x4d5800=0x0;_0x4d5800<_0xdb838f[_0x111516(0x200)];_0x4d5800++){if(_0xdb838f[_0x4d5800][_0x111516(0x219)]['length']<0x1||_0xdb838f[_0x4d5800][_0x111516(0x219)]<0x1)return _0xdb838f[_0x4d5800][_0x111516(0x1f7)](),![];else select!=0x4?tvchart[_0x111516(0x1d4)](parseInt(_0xdb838f[_0x4d5800][_0x111516(0x219)])):tvchart['push'](_0xdb838f[_0x4d5800][_0x111516(0x20c)][0x0]);}$('.evaluate'+select)[_0x111516(0x1e7)](_0x111516(0x213));let _0x51998d=[];if(select==0x1)_0x51998d=t1o;else{if(select==0x2)_0x51998d=t2o;else{if(select==0x3)_0x51998d=t3o;else{if(select==0x4)_0x51998d=t4o;else select==0x5&&(_0x51998d=t5o);}}}$(_0x111516(0x1dd))[_0x111516(0x1de)]();for(let _0x1f0681=0x1;_0x1f0681<_0x51998d['length'];_0x1f0681++){$(_0x111516(0x225))['append']('<option\x20value='+_0x1f0681+'>'+_0x51998d[_0x1f0681]+'</option>');}chart[_0x111516(0x223)](),chart=new Chart(document[_0x111516(0x217)](_0x111516(0x1fe)),{}),$(_0x111516(0x229))[_0x111516(0x221)]('d-none'),$(_0x111516(0x1da))['addClass'](_0x111516(0x213));}}}return;}),$(document)['on'](_0x56902c(0x201),'.evaluate3\x20select',function(_0x4b6c43){const _0x28474d=_0x56902c;$(_0x28474d(0x1e2)+$(_0x28474d(0x20d))['index'](this)+')')[_0x28474d(0x1e7)](_0x28474d(0x1f4));}),$(document)['on']('change',_0x56902c(0x1d3),function(_0x5aa07e){const _0x5b33cc=_0x56902c;$(_0x5b33cc(0x1d3))[_0x5b33cc(0x1e7)](_0x5b33cc(0x1f4));}),$(document)['on'](_0x56902c(0x201),_0x56902c(0x225),function(){const _0x1a9ce8=_0x56902c;let _0x466e69;if(select==0x1)_0x466e69='pie',decision($(_0x1a9ce8(0x225))['val']());else select==0x2&&(_0x466e69=_0x1a9ce8(0x1fd),forecasting($(_0x1a9ce8(0x225))['val']()));chart['destroy'](),chart=new Chart(document['getElementById'](_0x1a9ce8(0x1fe)),{'data':{'labels':chartlbl,'datasets':[{'type':_0x466e69,'data':tchart,'borderWidth':0x2,'borderColor':_0x1a9ce8(0x226),'backgroundColor':_0x1a9ce8(0x204),'hoverBackgroundColor':_0x1a9ce8(0x204)}]},'options':{'elements':{'point':{'pointStyle':![]}},'scales':{'x':{'display':![],'stacked':!![]},'y':{'display':![],'min':0x0,'max':0x64,'step':0xa,'ticks':{'beginAtZero':!![]}}},'plugins':{'legend':{'display':![]}}}});});function decision(_0x1578fc){const _0xa5f9ea=_0x56902c;tchart=[];let _0x35156f=[0x19,0x23,0x28],_0x5b112c=[0x1,0x3,0x2,0x3,0x2,0x1,0x3,0x2,0x2],_0x2c0453=[],_0x855012=[],_0x42c2a5=[];for(let _0x4aa397=0x0;_0x4aa397<_0x35156f[_0xa5f9ea(0x200)];_0x4aa397++){_0x2c0453[_0xa5f9ea(0x1d4)](_0x35156f[_0x4aa397]/0x64);}for(let _0x32683f=0x0;_0x32683f<_0x35156f[_0xa5f9ea(0x200)];_0x32683f++){_0x855012[_0xa5f9ea(0x1d4)](_0x5b112c[_0xa5f9ea(0x206)](_0x32683f*_0x35156f[_0xa5f9ea(0x200)],(_0x32683f+0x1)*_0x35156f[_0xa5f9ea(0x200)]));}for(let _0x43b283=0x0;_0x43b283<_0x855012[_0xa5f9ea(0x200)];_0x43b283++){let _0xdaa054=[];for(let _0x3418d3=0x0;_0x3418d3<_0x855012[_0x43b283][_0xa5f9ea(0x200)];_0x3418d3++){let _0x122e7f=[];for(let _0x49467b=0x0;_0x49467b<_0x855012[_0x43b283][_0xa5f9ea(0x200)];_0x49467b++){_0x122e7f[_0xa5f9ea(0x1d4)](_0x855012[_0x43b283][_0x49467b]/_0x855012[_0x43b283][_0x3418d3]);}_0xdaa054[_0x3418d3]=_0x122e7f;}_0x855012[_0x43b283]=_0xdaa054;}for(let _0x1ca720=0x0;_0x1ca720<_0x855012[_0xa5f9ea(0x200)];_0x1ca720++){let _0x1519a8=_0x855012[_0x1ca720];for(let _0x4a8c4f=0x0;_0x4a8c4f<_0x1519a8[_0xa5f9ea(0x200)];_0x4a8c4f++){for(let _0x478e8d=0x0;_0x478e8d<_0x1519a8[_0x4a8c4f]['length'];_0x478e8d++){_0x478e8d==_0x1ca720&&console[_0xa5f9ea(0x1fc)](_0x1519a8);}}}function _0x48b99b(_0x41cfb6){tchart=[];}}
+
+let topic = ['','Decision','Forecasting','Association','Imaging','Classification']
+let page = 0, select = 0, option, evaluate
+let t1s = 0, t1o = ['','AHP','SAW','TOPSIS','WP']
+let t2o = ['','SMA','DMA','SES','DES']
+let t3o = ['','Apriori','FP Growth']
+let t4o = ['','Canny','Sobel','Crypto','Biner']
+let t5o = ['','KNN','Naïve Bayes','ANN','K Means']
+let tp = [], tvchart = [], tchart = []
+let chart = new Chart(document.getElementById('chart'), {})
+const chartlbl = ['A1','A2','A3']
+
+function muted() {
+	const video = document.body.querySelector('video')
+	video.muted = false
+}
+
+$(document).ready(function() {
+	$('.option1').addClass('d-none')
+	$('.option2').addClass('d-none')
+	$('.option3').addClass('d-none')
+	$('.option4').addClass('d-none')
+	$('.option5').addClass('d-none')
+	$('.evaluate1').addClass('d-none')
+	$('.evaluate2').addClass('d-none')
+	$('.evaluate3').addClass('d-none')
+	$('.evaluate4').addClass('d-none')
+	$('.evaluate5').addClass('d-none')
+	$('.chart').addClass('d-none')
+	$('.btn.outline').addClass('d-none')
+})
+
+$(document).on('click', '.btn.outline', function() {	
+	$('h5').html('pilih sesuai algoritma kamu')
+	$('.select').removeClass('d-none')			
+	$('.option1').addClass('d-none')
+	$('.option2').addClass('d-none')
+	$('.option3').addClass('d-none')
+	$('.option4').addClass('d-none')
+	$('.option5').addClass('d-none')
+	$('.evaluate1').addClass('d-none')
+	$('.evaluate2').addClass('d-none')
+	$('.evaluate3').addClass('d-none')
+	$('.evaluate4').addClass('d-none')
+	$('.evaluate5').addClass('d-none')
+	$('.chart').addClass('d-none')
+	$('button:not(.outline)').html('Lanjutkan')	
+	$('button:not(.outline)').removeClass('d-none')	
+	$('.btn.outline').addClass('d-none')
+	page = 0
+	select = 0
+	option = ''
+	tp = [], tvchart = [], t1s = 0
+})
+
+$(document).on('input', 'input[type="tel"]:not(.decimal)', function(e) {
+	e.target.value = e.target.value.replace(/[^0-9]/g, '')
+})
+
+$(document).on('input', 'input.decimal', function(e) {
+	let v = e.target.value.replace(/[^0-9.]/g, '')
+	if (v.search(/[.]/g) >= 0 && v.match(/[.]/g).length > 1) {
+		e.target.value = v.slice(0, -1)
+	} else {
+		e.target.value = v
+	}
+})
+
+$(document).on('change', 'input[type="file"]', function(e) {
+	let t = ['bmp','jpg','jpeg','png']
+	if (t.indexOf(e.target.files[0].type.split('/')[1]) < 0) {
+		e.target.value = ''		
+	}
+})
+
+$(document).on('submit', 'form', function(e) {
+	e.preventDefault()
+
+	if (page < 1) {
+		const opt = document.body.querySelector('form select')
+		if (opt.value < 1) {
+			opt.focus()
+		} else {
+			$('.select').addClass('d-none')			
+			$('.btn.outline').removeClass('d-none')
+			select = opt.value
+			option = '.option'+select
+			$(option).removeClass('d-none')
+			page++
+
+			$('h5').html(topic[select])			
+			$('button:not(.outline)').html('Evaluasi')
+		}
+	} else if (page == 1) {
+		t1s = 0
+		let input
+		if (select != 5) {
+			input = document.body.querySelectorAll(option+' input')
+		} else {
+			input = document.body.querySelectorAll(option+' select')
+		}
+		for (let x=0; x<input.length; x++) {
+			if (input[x].value.length < 1) {
+				input[x].focus()
+				return false
+			}
+			else {
+				if (select != 4) {
+					tp.push(parseInt(input[x].value))
+				} else {
+					tp.push(input[x].files[0])
+				}
+				if (select == 1) {
+					t1s = t1s + parseInt(input[x].value)					
+				}
+			}
+		}
+
+		if (select == 1 && t1s != 100) {
+			input[0].focus()
+			return false			
+		}
+
+		$(option).addClass('d-none')
+		$('.evaluate'+select).removeClass('d-none')
+		$('button:not(.outline)').html('Hasil')
+		page++
+	} else if (page == 2) {
+		let input
+		if (select != 3) {
+			input = document.body.querySelectorAll('.evaluate'+select+' input')
+		} else {
+			input = document.body.querySelectorAll('.evaluate'+select+' select')
+		}
+		for (let x=0; x<input.length; x++) {
+			if (input[x].value.length < 1 || input[x].value < 1) {
+				input[x].focus()
+				return false
+			} else {
+				if (select != 4) {
+					tvchart.push(parseInt(input[x].value))
+				} else {
+					tvchart.push(input[x].files[0])
+				}
+			}
+		}
+
+		$('.evaluate'+select).addClass('d-none')
+
+		let topt = []
+		if (select == 1) {
+			topt = t1o
+		}
+		else if (select == 2) {
+			topt = t2o
+		}
+		else if (select == 3) {
+			topt = t3o
+		}
+		else if (select == 4) {
+			topt = t4o
+		}
+		else if (select == 5) {
+			topt = t5o
+		}
+
+		$('.chart select option:not(:first-of-type)').remove()
+		for (let y=1; y<topt.length; y++) {
+			$('.chart select').append('<option value='+y+'>'+topt[y]+'</option>')
+		}
+
+		chart.destroy()
+		chart = new Chart(document.getElementById('chart'), {})		
+		$('.chart').removeClass('d-none')
+		$('button:not(.outline)').addClass('d-none')			
+	}
+
+	return
+})
+
+$(document).on('change', '.evaluate3 select', function(e) {
+	$('.evaluate3 select:eq('+$('.evaluate3 select').index(this)+')').addClass('text-dark')
+})
+
+$(document).on('change', '.option5 select', function(e) {
+	$('.option5 select').addClass('text-dark')
+})
+
+$(document).on('change', '.chart select', function() {
+	let type
+	if (select == 1) {
+		type = 'pie'
+		decision($('.chart select').val())		
+	}
+	else if (select == 2) {
+		type = 'line'
+		forecasting($('.chart select').val())
+	}
+
+	chart.destroy()
+	chart = new Chart(document.getElementById('chart'), {
+		data: {
+		    labels: chartlbl,
+		    datasets: [
+			    {
+			    	type: type,
+			    	data: tchart,
+			    	borderWidth: 2,
+			    	borderColor: '#ca9a36',
+			    	backgroundColor: '#ffffff',
+			    	hoverBackgroundColor: '#ffffff'
+			    }
+		    ]
+		},
+		options: {
+			elements: {
+				point: {
+					pointStyle: false
+				}
+			},
+			scales: {
+				x: {
+					display: false,
+					stacked: true
+				},
+				y: {
+					display: false,
+					min: 0,
+					max: 100,
+					step: 10,
+					ticks: {
+						beginAtZero: true
+					}
+				}
+			},
+			plugins: {
+				legend: {
+					display: false
+				}
+			}
+		}
+	})	
+})
+
+function decision(opt) {
+	tchart = []
+	let t1p = [25,35,40], tvchart = [1,3,2,3,2,1,3,2,2]
+	let w = [], vk = [], tk = []
+
+for (let x=0; x<t1p.length; x++) {
+    w.push(t1p[x] / 100)
+}
+
+for (let c=0; c<t1p.length; c++) {
+    vk.push(tvchart.slice(c*t1p.length,(c+1)*t1p.length))
+}
+
+for (let v=0; v<vk.length; v++) {
+    let mk = []
+    for (let y=0; y<vk[v].length; y++) {
+        let rk = []
+        for (let c=0; c<vk[v].length; c++) {
+            rk.push(vk[v][c] / vk[v][y])
+        }
+        mk[y] = rk
+    }
+    vk[v] = mk
+}
+
+for (let v=0; v<vk.length; v++) {
+    let vm = vk[v]
+    for (let y=0; y<vm.length; y++) {
+        for (let c=0; c<vm[y].length; c++) {
+            if (c == v) {
+                console.log(vm)
+            }
+        }
+    }
+}
+
+function forecasting(opt) {
+	tchart = []
+}
+
+/*
+perbandingan Alt
+=> Row total
+
+nilai perbandingan Alt / Row total
+
+=> total bobot kanan
+
+perankingan nilai kanan :
+total bobot kanan * bobot Kriteria
+*/
+	
+}
